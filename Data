@@ -1,0 +1,7 @@
+We will be using the Foursquare location data for finding 
+the similar surrounding restaurants. Also we will use the 
+dataset provided in previous labs, which contain the crime rate in san francisco
+
+Merging the data we will get from Foursquare to find the sorrounding relevant 
+restaurants, with the aparently dange  locations we will estimate the site wich 
+will be in an acoording place and be safe to locate it there.
